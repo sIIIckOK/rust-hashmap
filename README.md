@@ -8,6 +8,7 @@ chmod +x ./run.sh
 <br/>
 OR
 <br/>
+
 ```
 rustc main.rs
 ./main
